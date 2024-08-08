@@ -1,0 +1,11 @@
+deslogado
+- inicio com login
+- sobre (nós e o site)
+- cadastro
+
+logado
+- perfil
+- editoras e lançamentos
+- sorteios
+- minha biblioteca
+- booktubers?
